@@ -1,11 +1,14 @@
 # Summary of my additions
 
 New hardware required:
-2x rotary encoders
-2x 1.75u keycaps (1.5u also works without looking too weird)
+-2x rotary encoders
+-2x 1.75u keycaps (1.5u also works without looking too weird)
+-2x TRRS ports
 
 List of hardware I used (with links):
-TODO
+-[XDA Keycaps (44)](https://www.aliexpress.us/item/3256807298068427.html?spm=a2g0o.order_list.order_list_main.22.5e4a1802hSJuOR&gatewayAdapt=glo2usa)
+-[Rotary Encoders (2)](https://www.aliexpress.us/item/3256805796819763.html?spm=a2g0o.order_list.order_list_main.32.5e4a1802hSJuOR&gatewayAdapt=glo2usa)
+-[Rotary Encoder Caps (2)](https://www.aliexpress.us/item/3256802546984370.html?spm=a2g0o.order_list.order_list_main.37.5e4a1802hSJuOR&gatewayAdapt=glo2usa)
 
 # Original README from ScottoKeebs
 
